@@ -1,0 +1,11 @@
+body{
+    background-color: hsl(177, 83%, 50%);
+}
+#delete{
+    text-align: center;
+    margin-left: 30%;
+    width: 500px;
+    height: 100px;
+    background-color:burlywood;
+    margin-top: 60px;
+}
